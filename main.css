@@ -88,8 +88,7 @@ form {
     float: left;
     text-align: right;
     margin-right: 1em;
-    margin-bottom: .75em;
-    margin-top: .25em;
+    margin-bottom: 1em;
 }
 input.text {
     width: 15em;
