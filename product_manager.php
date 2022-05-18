@@ -16,6 +16,7 @@
             <h1>Product Manager</h1>
             <p>Under construction!</p>
             <p><a href="index.php?action=show_admin_menu">Admin Menu</a></p>
+            <p><a href="index.php?action=logout">Logout</a></p>
         </main>
     </body>
 </html>
